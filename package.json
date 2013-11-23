@@ -1,0 +1,29 @@
+{
+  "name": "andthen",
+  "version": "1.0.0",
+  "description": "Flexible JavaScript Promise/Proxy wrapper for EventEmitter-style objects",
+  "main": "lib/andthen.js",
+  "dependencies": {
+    "async": "0.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1stvamp/andthen.js.git"
+  },
+  "keywords": [
+    "decorator",
+    "promise",
+    "proxy",
+    "future",
+    "events"
+  ],
+   "author": {
+       "name": "Wes Mason",
+       "email": "wes@1stvamp.org",
+       "web": "http://www.1stvamp.org/"
+   }, 
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/1stvamp/andthen.js/issues"
+  }
+}
