@@ -1,14 +1,14 @@
 {
-  "name": "andthen",
+  "name": "dowhen",
   "version": "1.0.0",
   "description": "Flexible JavaScript Promise/Proxy wrapper for EventEmitter-style objects",
-  "main": "lib/andthen.js",
+  "main": "lib/dowhen.js",
   "dependencies": {
     "async": "0.2.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1stvamp/andthen.js.git"
+    "url": "https://github.com/1stvamp/dowhen.js.git"
   },
   "keywords": [
     "decorator",
@@ -24,6 +24,6 @@
    }, 
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/1stvamp/andthen.js/issues"
+    "url": "https://github.com/1stvamp/dowhen.js/issues"
   }
 }
